@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Create exercise plan with motivation",
+    "input": "Patient: John, 45, Male\nProblem: Lower back pain\nPain: 6/10\nHistory: Desk job",
+    "output": "Morning (8 AM):\n- Cat-Cow Stretch: 2 min, 10 reps\n- Pelvic Tilts: 3 sets x 15 reps\n- Walking: 10 min\n\nAfternoon (2 PM):\n- Bird-dog: 3 sets x 10 each side\n- Seated twist: 30 sec each side\n\nEvening (7 PM):\n- Child's pose: 2 min hold\n- Hamstring stretch: 30 sec each leg\n\nMotivation: John, every stretch today is progress toward a pain-free life. Your dedication is rebuilding your core strength!"
+  },
+  {
+    "instruction": "Create exercise plan with motivation",
+    "input": "Patient: Sarah, 32, Female\nProblem: Shoulder strain\nPain: 7/10\nHistory: Gym injury 2 weeks ago",
+    "output": "Morning (9 AM):\n- Pendulum swings: 5 min gentle circles\n- Wall slides: 3 sets x 10 reps\n- Ice therapy: 15 min\n\nMidday (1 PM):\n- Passive ROM: 10 min\n- Isometric holds: 10 sec x 5 reps\n\nEvening (6 PM):\n- Band external rotation: 2 sets x 12\n- Doorway stretch: 30 sec x 3 reps\n\nMotivation: Sarah, healing requires patience. Each gentle movement today rebuilds your shoulder's foundation. Trust your body's recovery process!"
+  },
+  {
+    "instruction": "Create exercise plan with motivation",
+    "input": "Patient: Mike, 28, Male\nProblem: Knee pain\nPain: 5/10\nHistory: Running injury",
+    "output": "Morning (8 AM):\n- Quad sets: 3 sets x 20 reps\n- Straight leg raises: 3 sets x 15\n\nAfternoon (3 PM):\n- Hamstring curls: 2 sets x 12\n- Wall sits: 3 x 30 sec\n\nEvening (7 PM):\n- Stationary bike: 10 min easy\n- Foam rolling: 5 min\n\nMotivation: Mike, runners are built through patience. Today's controlled movements prepare you for stronger miles ahead!"
+  },
+  {
+    "instruction": "Create exercise plan with motivation",
+    "input": "Patient: Emma, 55, Female\nProblem: Frozen shoulder\nPain: 8/10\nHistory: Post-surgery 6 weeks",
+    "output": "Morning (8:30 AM):\n- Pendulum swings: 5 min\n- Passive external rotation: 10 reps\n- Warm compress: 15 min\n\nMidday (12 PM):\n- Table slides: 3 sets x 8\n- Towel stretch: 30 sec x 3\n\nEvening (6 PM):\n- Wall walks: 5 reps\n- Cross-body stretch: 30 sec each\n\nMotivation: Emma, frozen shoulders thaw with persistence. Six weeks ago this seemed impossible. Today you're reclaiming mobility one degree at a time!"
+  },
+  {
+    "instruction": "Create exercise plan with motivation",
+    "input": "Patient: David, 38, Male\nProblem: Tennis elbow\nPain: 6/10\nHistory: Computer work strain",
+    "output": "Morning (7:30 AM):\n- Wrist flexor stretch: 30 sec x 3\n- Wrist extensor stretch: 30 sec x 3\n- Forearm rotation: 10 reps\n\nAfternoon (2 PM):\n- Eccentric wrist curls: 2 sets x 15\n- Grip strengthening: 10 squeezes\n\nEvening (7 PM):\n- Ice massage: 10 min\n- Forearm stretches: 5 min\n\nMotivation: David, chronic pain teaches patience. Every exercise is an investment in pain-free typing and living!"
+  }
+]

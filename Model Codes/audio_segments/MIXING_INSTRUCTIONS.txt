@@ -1,0 +1,21 @@
+============================================================
+AUDIO MIXING INSTRUCTIONS
+============================================================
+
+1. Download Audacity (free): https://www.audacityteam.org/
+
+2. Import files in this order:
+
+   1. segment_01_narration.mp3
+   2. [MUSIC: Eye of the Tiger by Survivor] (15 seconds)
+   3. segment_03_narration.mp3
+   4. [MUSIC: Stronger by Kanye West] (15 seconds)
+   5. segment_05_narration.mp3
+   6. [MUSIC: Don't Stop Believin' by Journey] (15 seconds)
+   7. segment_07_narration.mp3
+
+3. Arrange them on the timeline
+4. For music segments:
+   - Reduce volume to -15dB
+   - Add 2-second fade in/out
+5. Export as MP3: File → Export → Export as MP3

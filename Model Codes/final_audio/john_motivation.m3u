@@ -1,0 +1,18 @@
+#EXTM3U
+# Physiotherapy Motivation Playlist
+# Play this in VLC or any media player
+
+#EXTINF:-1,Segment 1
+segment_01_narration.mp3
+#EXTINF:-1,Segment 2
+..\music\Survivor - Eye of the Tiger.mp3
+#EXTINF:-1,Segment 3
+segment_03_narration.mp3
+#EXTINF:-1,Segment 4
+..\music\Kanye West - Stronger.mp3
+#EXTINF:-1,Segment 5
+segment_05_narration.mp3
+#EXTINF:-1,Segment 6
+..\music\Journey - Don't Stop Believin'.mp3
+#EXTINF:-1,Segment 7
+segment_07_narration.mp3

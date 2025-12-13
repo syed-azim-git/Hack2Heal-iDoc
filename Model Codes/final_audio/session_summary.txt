@@ -1,0 +1,34 @@
+============================================================
+PHYSIOTHERAPY MOTIVATION SESSION
+============================================================
+
+Output File: john_motivation_complete.mp3
+Location: ./final_audio
+
+Total Segments: 7
+  - Narration: 4
+  - Music: 3
+
+SEGMENT BREAKDOWN:
+------------------------------------------------------------
+1. Narration (27 words)
+2. Music: Eye of the Tiger by Survivor
+3. Narration (84 words)
+4. Music: Stronger by Kanye West
+5. Narration (74 words)
+6. Music: Don't Stop Believin' by Journey
+7. Narration (100 words)
+
+============================================================
+USAGE INSTRUCTIONS
+============================================================
+
+1. Play john_motivation_complete.mp3 in any media player
+2. Share with your patient
+3. Use in your physiotherapy app
+
+NOTE: Music segments include full song.
+For best results, edit with audio software to:
+  - Trim music to 15-20 seconds
+  - Reduce music volume (-10 to -15dB)
+  - Add fade in/out to music

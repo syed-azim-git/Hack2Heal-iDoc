@@ -1,0 +1,45 @@
+============================================================
+HOW TO USE YOUR MOTIVATIONAL AUDIO
+============================================================
+
+OPTION 1: Play Playlist File (Easiest)
+------------------------------------------------------------
+1. Open 'playlist.m3u' with VLC Media Player
+2. All segments will play in order automatically
+3. Music will be at original volume
+
+OPTION 2: Combine into Single File (Best Quality)
+------------------------------------------------------------
+1. Download Audacity (free): audacityteam.org
+2. Import all segment files in order:
+   1. segment_01_narration.mp3
+   2. Survivor - Eye of the Tiger.mp3
+   3. segment_03_narration.mp3
+   4. Kanye West - Stronger.mp3
+   5. segment_05_narration.mp3
+   6. Journey - Don't Stop Believin'.mp3
+   7. segment_07_narration.mp3
+3. For music segments:
+   - Select music track
+   - Effect → Amplify → Set to -15dB
+   - Effect → Fade In (2 seconds)
+   - Effect → Fade Out (2 seconds)
+4. File → Export → Export as MP3
+
+OPTION 3: Play Individual Files
+------------------------------------------------------------
+Play each segment file manually in order.
+Files are numbered: segment_01, segment_02, etc.
+
+MUSIC FILES USED:
+------------------------------------------------------------
+- Eye of the Tiger by Survivor
+- Stronger by Kanye West
+- Don't Stop Believin' by Journey
+
+TIPS:
+------------------------------------------------------------
+- Keep narration volume high (original)
+- Reduce music volume by 10-15dB for background
+- Add 0.5-1 second silence between segments
+- Export at 192kbps or higher for quality

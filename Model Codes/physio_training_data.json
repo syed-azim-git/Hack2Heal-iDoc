@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "Create a daily exercise schedule for a patient with chronic lower back pain.",
+    "input": "Patient: John, 45, Male\nProblem: Chronic lower back pain from poor posture\nPain Level: 6/10\nHistory: Desk job, sedentary lifestyle\nPast exercises: Basic stretches, partially completed",
+    "output": "**Daily Schedule:**\n\nMorning (8:00 AM):\n1. Cat-Cow Stretch - 2 minutes, 10 repetitions\n2. Pelvic Tilts - 3 sets of 15 reps\n3. Gentle walking - 10 minutes\n\nAfternoon (2:00 PM):\n4. Seated spinal twist - Hold 30 seconds each side, 3 reps\n5. Bird-dog exercise - 3 sets of 10 reps per side\n\nEvening (7:00 PM):\n6. Child's pose - Hold 2 minutes\n7. Supine hamstring stretch - 30 seconds each leg, 3 reps\n\n**Motivational Narrative:**\nJohn, I know that sitting at a desk all day has made your back feel like it's carrying the weight of the world. But here's the truth: every stretch you do today is a small victory against that pain. Remember last week when you told me you could barely bend down? Look at you now, showing up and doing the work. Today's exercises are specifically designed to strengthen your core and release that tension. Your body is capable of healing, and you're proving that every single day. Let's make today count."
+  },
+  {
+    "instruction": "Create a recovery schedule for a patient with rotator cuff injury.",
+    "input": "Patient: Sarah, 32, Female\nProblem: Rotator cuff strain from gym injury\nPain Level: 7/10\nHistory: Occurred 2 weeks ago during overhead press\nPast exercises: Complete rest, starting active recovery",
+    "output": "**Daily Schedule:**\n\nMorning (9:00 AM):\n1. Pendulum exercises - 5 minutes, gentle circles\n2. Wall slides - 3 sets of 10 reps\n3. Ice therapy - 15 minutes\n\nMidday (1:00 PM):\n4. Passive range of motion - 10 minutes\n5. Isometric shoulder exercises - Hold 10 seconds, 5 reps\n\nEvening (6:00 PM):\n6. Resistance band external rotation - 2 sets of 12 reps\n7. Doorway chest stretch - Hold 30 seconds, 3 reps\n\n**Motivational Narrative:**\nSarah, two weeks ago you felt defeated when that injury happened. But injuries don't define us\u2014our response to them does. Today marks another step in your comeback story. These gentle movements might feel small, but they're rebuilding the foundation of your shoulder strength. Every controlled motion is teaching your body how to heal properly. I've seen countless athletes come back stronger from rotator cuff injuries, and you're on that same path. Trust the process, trust your body."
+  }
+]
