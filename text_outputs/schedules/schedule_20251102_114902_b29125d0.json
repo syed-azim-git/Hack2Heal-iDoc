@@ -1,0 +1,37 @@
+{
+  "id": "b29125d0",
+  "schedule": [
+    {
+      "time": "11:00 AM",
+      "task": "Knee Stretches"
+    },
+    {
+      "time": "5:00 PM",
+      "task": "10-min Walk"
+    },
+    {
+      "time": "1:00 PM",
+      "task": "Check Posture"
+    },
+    {
+      "time": "3:00 PM",
+      "task": "Check Posture"
+    },
+    {
+      "time": "5:00 PM",
+      "task": "Check Posture"
+    }
+  ],
+  "task_count": 5,
+  "created_at": "2025-11-02T11:49:02.907305",
+  "metadata": {
+    "tasks": [
+      "Knee Stretches",
+      "10-min Walk",
+      "Check Posture"
+    ],
+    "user_profile": {},
+    "confidence": 0.5
+  },
+  "type": "schedule"
+}
